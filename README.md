@@ -1,2 +1,2 @@
 # cli-ai
-simple Gemini CLI chat with chat History
+simple Gemini CLI ai with chat History
